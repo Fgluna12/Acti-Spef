@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWDQInRV7qer7742YDOpkNh/SbnbGlhOnF9dtrO8CQdHht7e9fwAE+OyBQM0ZXPXtc7fTDhiBU8c/N3Qy2v7uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itzmegas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

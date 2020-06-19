@@ -1,0 +1,9 @@
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
