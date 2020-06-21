@@ -1,30 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\itzmegas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itzmegas\\Desktop\\Spef_Acti-master\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\itzmegas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
