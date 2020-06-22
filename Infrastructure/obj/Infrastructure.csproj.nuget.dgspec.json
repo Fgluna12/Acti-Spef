@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Spef_Acti\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Spef_Acti\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Spef_Acti\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Spef_Acti\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pablo\\Desktop\\proyecto\\Acti-Spef\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Spef_Acti\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,6 +47,10 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
