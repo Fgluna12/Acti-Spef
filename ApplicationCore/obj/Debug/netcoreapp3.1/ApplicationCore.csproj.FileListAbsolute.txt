@@ -13,3 +13,18 @@ C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFi
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CopyComplete
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
