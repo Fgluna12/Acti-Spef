@@ -10,3 +10,15 @@ C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFi
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
 C:\Users\Pablo\Documents\FACU\3 año 1mer cuatrimestre\Programacion 5\proyectoFinal\Spef_Acti\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Patricio\Desktop\sepefActi\Acti-Spef\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
