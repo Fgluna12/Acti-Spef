@@ -2836,12 +2836,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3098,12 +3097,11 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5992,33 +5990,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Patricio\\.nuget\\packages\\": {}
+    "C:\\Users\\Pablo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\obj\\",
+      "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesource": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -6069,6 +6075,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6077,7 +6089,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
