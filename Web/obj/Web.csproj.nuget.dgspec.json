@@ -1,27 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj": {}
+    "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -83,35 +95,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj": {
+    "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Web\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Patricio\\Desktop\\sepefActi\\Acti-Spef\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Pablo\\Documents\\FACU\\3 año 1mer cuatrimestre\\Programacion 5\\proyectoFinal\\Acti-Spef\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -162,6 +180,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -170,7 +194,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
